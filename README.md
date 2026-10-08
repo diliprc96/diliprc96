@@ -26,7 +26,7 @@ I operate at the intersection of **deep technical execution** and **product thin
 Now actively targeting **AI Product Manager** and **Senior AI Engineer / Solutions Architect** roles where both those muscles matter.
 
 - 🛩️ **Domain:** Aerospace manufacturing AI — aviation documentation, cabin systems, predictive maintenance
-- 🎓 **Education:** M.Tech AI/ML @ BITS Pilani *(2024–2026, in progress)* · B.E. Electronics @ Christ University
+- 🎓 **Education:** M.Tech AI/ML @ BITS Pilani · B.E. Electronics @ Christ University
 - 🏆 **Award:** SAFRAN Top Gun Individual Award (Niche Team)
 - 📝 **Writing:** AI breakdowns and opinions on [Medium](https://medium.com/@diliprc96)
 
