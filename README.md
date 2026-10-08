@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Architecting+AI+products+that+actually+ship.;6%2B+years+%7C+Aerospace+AI+%7C+7+products+in+production.;RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+Edge+AI.;From+concept+%E2%80%94+to+airshow+demo+%E2%80%94+to+deployed.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Architecting+AI+products+that+actually+ship.;7%2B+years+%7C+Aerospace+AI+%7C+6+products+in+production.;RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+Edge+AI.;From+concept+%E2%80%94+to+airshow+demo+%E2%80%94+to+deployed.)](https://git.io/typing-svg)
 
 <br/>
 
